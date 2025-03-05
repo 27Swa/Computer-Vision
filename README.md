@@ -1,4 +1,4 @@
-# Computer Vision Projects
+# Computer Vision
 
 ## Task 1: Corner Detection
 Implemented **Harris Corner Detection** to identify key points in images. 
